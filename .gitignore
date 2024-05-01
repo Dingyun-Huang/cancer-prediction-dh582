@@ -1,5 +1,11 @@
 # Envirnments
 venv/
+.env
+venvTest/
 
 # cache
 __pycache__/
+
+# tars and wheels
+*.whl
+*.tar.gz
