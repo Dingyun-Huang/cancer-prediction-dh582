@@ -4,7 +4,8 @@ venv/
 venvTest/
 
 # cache
-__pycache__/
+
+**/__pycache__/
 
 # tars and wheels
 *.whl
