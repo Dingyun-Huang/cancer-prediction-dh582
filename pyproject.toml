@@ -8,6 +8,9 @@ readme = "README.md"
 
 packages = [{include = "cancer_prediction"}]
 
+[tool.poetry.scripts]
+cancer-prediction =  "cancer_prediction.cli:app"
+
 [tool.poetry.dependencies]
 python = "^3.10"
 pandas = "2.2.1"
