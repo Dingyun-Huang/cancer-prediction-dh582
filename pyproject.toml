@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "cancer-prediction-dh582"
-version = "0.1.2"
+version = "0.1.3"
 description = "model to predict cancer"
 authors = ["DINGYUN HUANG <94184902+Dingyun-Huang@users.noreply.github.com>"]
 license = "MIT"
